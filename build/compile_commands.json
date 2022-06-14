@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/lvlv/Desktop/WLX2022-master/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DPREDICT_CFG=\\\"/home/lvlv/Desktop/WLX2022-master/Predict.yaml\\\" -I/home/lvlv/Desktop/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/Main.cpp.o -c /home/lvlv/Desktop/WLX2022-master/Main.cpp",
+  "file": "/home/lvlv/Desktop/WLX2022-master/Main.cpp"
+},
+{
+  "directory": "/home/lvlv/Desktop/WLX2022-master/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DPREDICT_CFG=\\\"/home/lvlv/Desktop/WLX2022-master/Predict.yaml\\\" -I/home/lvlv/Desktop/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libVision/MonoDistance/Mono.cpp.o -c /home/lvlv/Desktop/WLX2022-master/libVision/MonoDistance/Mono.cpp",
+  "file": "/home/lvlv/Desktop/WLX2022-master/libVision/MonoDistance/Mono.cpp"
+},
+{
+  "directory": "/home/lvlv/Desktop/WLX2022-master/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DPREDICT_CFG=\\\"/home/lvlv/Desktop/WLX2022-master/Predict.yaml\\\" -I/home/lvlv/Desktop/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libSolver/Predict/KF.cpp.o -c /home/lvlv/Desktop/WLX2022-master/libSolver/Predict/KF.cpp",
+  "file": "/home/lvlv/Desktop/WLX2022-master/libSolver/Predict/KF.cpp"
+},
+{
+  "directory": "/home/lvlv/Desktop/WLX2022-master/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DPREDICT_CFG=\\\"/home/lvlv/Desktop/WLX2022-master/Predict.yaml\\\" -I/home/lvlv/Desktop/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libBase/Common.cpp.o -c /home/lvlv/Desktop/WLX2022-master/libBase/Common.cpp",
+  "file": "/home/lvlv/Desktop/WLX2022-master/libBase/Common.cpp"
+},
+{
+  "directory": "/home/lvlv/Desktop/WLX2022-master/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DPREDICT_CFG=\\\"/home/lvlv/Desktop/WLX2022-master/Predict.yaml\\\" -I/home/lvlv/Desktop/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libVision/ArmorDetect/ArmorDetect.cpp.o -c /home/lvlv/Desktop/WLX2022-master/libVision/ArmorDetect/ArmorDetect.cpp",
+  "file": "/home/lvlv/Desktop/WLX2022-master/libVision/ArmorDetect/ArmorDetect.cpp"
+},
+{
+  "directory": "/home/lvlv/Desktop/WLX2022-master/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DPREDICT_CFG=\\\"/home/lvlv/Desktop/WLX2022-master/Predict.yaml\\\" -I/home/lvlv/Desktop/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libCamera/Camera.cpp.o -c /home/lvlv/Desktop/WLX2022-master/libCamera/Camera.cpp",
+  "file": "/home/lvlv/Desktop/WLX2022-master/libCamera/Camera.cpp"
+},
+{
+  "directory": "/home/lvlv/Desktop/WLX2022-master/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DPREDICT_CFG=\\\"/home/lvlv/Desktop/WLX2022-master/Predict.yaml\\\" -I/home/lvlv/Desktop/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libHardware/Transport/Serial.cpp.o -c /home/lvlv/Desktop/WLX2022-master/libHardware/Transport/Serial.cpp",
+  "file": "/home/lvlv/Desktop/WLX2022-master/libHardware/Transport/Serial.cpp"
+},
+{
+  "directory": "/home/lvlv/Desktop/WLX2022-master/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DPREDICT_CFG=\\\"/home/lvlv/Desktop/WLX2022-master/Predict.yaml\\\" -I/home/lvlv/Desktop/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libSolver/Pose/Pose.cpp.o -c /home/lvlv/Desktop/WLX2022-master/libSolver/Pose/Pose.cpp",
+  "file": "/home/lvlv/Desktop/WLX2022-master/libSolver/Pose/Pose.cpp"
+},
+{
+  "directory": "/home/lvlv/Desktop/WLX2022-master/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DPREDICT_CFG=\\\"/home/lvlv/Desktop/WLX2022-master/Predict.yaml\\\" -I/home/lvlv/Desktop/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libSolver/Pose/AngleSolver.cpp.o -c /home/lvlv/Desktop/WLX2022-master/libSolver/Pose/AngleSolver.cpp",
+  "file": "/home/lvlv/Desktop/WLX2022-master/libSolver/Pose/AngleSolver.cpp"
+},
+{
+  "directory": "/home/lvlv/Desktop/WLX2022-master/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DPREDICT_CFG=\\\"/home/lvlv/Desktop/WLX2022-master/Predict.yaml\\\" -I/home/lvlv/Desktop/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libBase/FirstProcess.cpp.o -c /home/lvlv/Desktop/WLX2022-master/libBase/FirstProcess.cpp",
+  "file": "/home/lvlv/Desktop/WLX2022-master/libBase/FirstProcess.cpp"
+},
+{
+  "directory": "/home/lvlv/Desktop/WLX2022-master/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DPREDICT_CFG=\\\"/home/lvlv/Desktop/WLX2022-master/Predict.yaml\\\" -I/home/lvlv/Desktop/WLX2022-master/include -isystem /usr/include/opencv4  -g   -g -lpthread -o CMakeFiles/WLX.dir/libBase/SecondProcess.cpp.o -c /home/lvlv/Desktop/WLX2022-master/libBase/SecondProcess.cpp",
+  "file": "/home/lvlv/Desktop/WLX2022-master/libBase/SecondProcess.cpp"
+}
+]

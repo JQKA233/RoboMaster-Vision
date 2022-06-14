@@ -1,0 +1,3 @@
+/home/lvlv/Desktop/WLX2022-master/build/CMakeFiles/rebuild_cache.dir
+/home/lvlv/Desktop/WLX2022-master/build/CMakeFiles/edit_cache.dir
+/home/lvlv/Desktop/WLX2022-master/build/CMakeFiles/WLX.dir
